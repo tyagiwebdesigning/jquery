@@ -1,0 +1,62 @@
+*{margin: 0; padding: 0;}
+.fl{
+    float: left;
+}
+.fnew{
+    float: left;
+    margin-left: 5%;
+}
+.fr{
+    float: right;
+}
+.butt{
+font-size: 1.5em;
+text-align: center;
+}
+button{
+height: 5vh;
+width: 10%;
+cursor: pointer;
+background-color: black;
+color: white;
+border-radius: 20px;
+border: 3px solid white;
+}
+.man{
+height: 30vh;
+margin-top: 5px;
+
+}
+.part{
+background-color: tomato;
+height: 30vh;
+width: 30%;
+border-radius: 20px;
+background-color: black;
+
+}
+.part:hover{
+}
+.woman{
+height: 30vh;
+margin-top: 5px;
+}
+.child{
+height: 30vh;
+margin-top: 5px;
+}
+.img{
+height: 30vh;
+width: 35%;
+}
+.text{
+height: 30vh;
+width: 65%;
+border-radius: 20px;
+background-color: aquamarine;   
+}
+img{
+height: 25vh;
+margin: 2.5vh;
+border-radius: 20px;
+}
